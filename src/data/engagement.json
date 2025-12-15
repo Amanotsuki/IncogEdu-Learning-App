@@ -1,0 +1,9 @@
+[
+  {
+    "user_id": 1,
+    "course_id": "JS101",
+    "time_spent": 45,
+    "engagement_level": "High",
+    "completed": true
+  }
+]
