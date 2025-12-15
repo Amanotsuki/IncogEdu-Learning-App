@@ -1,6 +1,6 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Web-blue)
-![Status](https://img.shields.io/badge/status-Hackathon%20Ready-success)
+
 
 # IncogEdu – Multilingual Learning Platform for Inclusive Education
 
