@@ -1,3 +1,7 @@
+![License](https://img.shields.io/badge/license-MIT-green)
+![Platform](https://img.shields.io/badge/platform-Web-blue)
+![Status](https://img.shields.io/badge/status-Hackathon%20Ready-success)
+
 # IncogEdu – Multilingual Learning Platform for Inclusive Education
 
 IncogEdu is a **multilingual, gamified learning platform** designed to improve accessibility, engagement, and learning outcomes for rural and underserved students. The platform focuses on inclusive education by combining modern UI, AI-ready architecture, and ethical use of open datasets.
